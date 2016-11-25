@@ -57,6 +57,12 @@ or a web service:
 [github terminal] (https://try.github.io/] "command line")  
 
 ***
+create new files...
+now if you want to  test your code (javascript,HTML,CSS).
+go to [code js test] (http://codepen.io/al-the-x/pen/rVjqRj] "code online")   
+it uses hello.js [js library with git API authenticating] (https://github.com/MrSwitch/hello.js/ "perfect ;) js")
+
+***
 End
 
 
