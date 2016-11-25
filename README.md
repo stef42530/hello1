@@ -44,3 +44,11 @@ In this final step, it’s time to bring your changes together – **merging you
 3. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
 
 Ref: [Guides github hello] (https://guides.github.com/activities/hello-world/] "guide") 
+
+To see this flow:
+[github flow] (https://guides.github.com/introduction/flow/] "flow")  
+***
+Git allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It's a distributed version control system.
+
+
+
