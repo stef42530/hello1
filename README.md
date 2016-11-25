@@ -21,3 +21,7 @@ To create a new branch:
 
 Now you have two branches, master and *readme-edits*. 
 They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
+Let’s make some edits.
+On GitHub, saved changes are called commits and each commit has an associated commit message, which is a description explaining why a particular change was made. 
+Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+
