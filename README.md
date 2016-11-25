@@ -58,9 +58,14 @@ or a web service:
 
 ***
 create new files...
-now if you want to  test your code (javascript,HTML,CSS).
-go to [code js test] (http://codepen.io/al-the-x/pen/rVjqRj] "code online")   
-it uses hello.js [js library with git API authenticating] (https://github.com/MrSwitch/hello.js/ "perfect ;) js")
+now if you want to  test your code (javascript,HTML,CSS):
+
+A)
+go to [code js test] (http://codepen.io/al-the-x/pen/rVjqRj] "code online") 
+It's not free!!!
+it uses hello.js [js library with git API authenticating] (https://github.com/MrSwitch/hello.js/ "perfect js")
+
+B) use [pages github] (https://pages.github.com/ "page hosted by git") 
 
 ***
 End
