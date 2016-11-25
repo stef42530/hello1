@@ -43,3 +43,4 @@ In this final step, it’s time to bring your changes together – **merging you
 2. Click Confirm merge.
 3. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
 
+Ref: [Guides github hello] (https://guides.github.com/activities/hello-world/] "guide") 
