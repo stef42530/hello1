@@ -50,11 +50,14 @@ To see this flow:
 ***
 Git allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It's a distributed version control system.
 
-Tou can also use (with command line):
-a desktop version
+Tou can also use :
+a desktop version (with a graphic interface or command line)
+
 or a web service:
 [github terminal] (https://try.github.io/] "command line")  
 
+***
+End
 
 
 
