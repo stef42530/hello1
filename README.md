@@ -22,7 +22,7 @@ To create a new branch:
 Now you have two branches, master and *readme-edits*. 
 They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 Let’s make some edits.
-On GitHub, saved changes are called commits and each commit has an associated commit message, which is a description explaining why a particular change was made. 
+On GitHub, saved changes are called commits and each commit has an associated **commit message**, which is a description explaining why a particular change was made. 
 Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
 
 Now that you have changes in a branch off of master, you can open a **pull request**.
@@ -34,3 +34,9 @@ additions, is shown in green
 subtractions is shown in red
 As soon as you make a commit, you can open a pull request 
 and start a discussion, even before the code is finished.
+
+In this final step, it’s time to bring your changes together – **merging your readme-edits branch** into the master branch.
+1. Click the green Merge pull request button to merge the changes into master.
+2. Click Confirm merge.
+3. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
+
