@@ -66,6 +66,13 @@ It's not free!!!
 it uses hello.js [js library with git API authenticating] (https://github.com/MrSwitch/hello.js/ "perfect js")
 
 B) use [pages github] (https://pages.github.com/ "page hosted by git") 
+You get one site per GitHub account. 
+very easy.
+
+Head over to GitHub and create a new repository named username.github.io, 
+where username is your username on GitHub.
+If the first part of the repository doesn’t exactly match your username, 
+it won’t work, so make sure to get it right.
 
 ***
 End
