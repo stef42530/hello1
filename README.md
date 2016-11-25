@@ -30,12 +30,15 @@ Pull Requests are the heart of collaboration on GitHub.
 When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. 
 Pull requests show **diffs**, or differences, of the content from both branches. 
 The changes:
-additions, is shown in green
-subtractions is shown in red
+
+- additions, is shown in green
+- subtractions is shown in red
+
 As soon as you make a commit, you can open a pull request 
 and start a discussion, even before the code is finished.
 
 In this final step, it’s time to bring your changes together – **merging your readme-edits branch** into the master branch.
+
 1. Click the green Merge pull request button to merge the changes into master.
 2. Click Confirm merge.
 3. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
