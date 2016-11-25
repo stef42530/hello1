@@ -67,7 +67,12 @@ it uses hello.js [js library with git API authenticating] (https://github.com/Mr
 
 B) use [pages github] (https://pages.github.com/ "page hosted by git") 
 You get one site per GitHub account. 
-very easy.
+It's very easy.
+
+In MAC Remember the command "git" is attached to XCode’s Command line tools.
+then if you get an error like this: xcrun: error: invalid active developer path 
+just update or dowload/install XCode
+with "xcode-select --install" (in terminal).
 
 Head over to GitHub and create a new repository named username.github.io, 
 where username is your username on GitHub.
